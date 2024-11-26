@@ -51,3 +51,5 @@
 [Redis on Kubernetes 플랫폼을 구성해 나가기](https://tech.kakaopay.com/post/kakaopaysec-redis-on-kubernetes/)
 
 [클라우드 비용 최적화 로드맵](https://www.sktenterprise.com/bizInsight/blogDetail/skt/9415)
+
+[JWT Token 을 스프링 부트에서 사용해보기](https://devocean.sk.com/blog/techBoard)
